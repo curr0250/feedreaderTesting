@@ -1,24 +1,24 @@
-## Feed Reader Testing 
+# Feed Reader Testing 
 Provided with the code for a program that populates a feed reader, testing was implemented to ensure the code is functioning properly.
 
 
-# Getting Started
+## Getting Started
 
 Clone the github respository and install. 
 $ git clone https://github.com/curr0250/feedreaderTesting
 
 
-# Usage
+## Usage
 
 Tests will run automatically when program is loaded.
 
 
-# Dependencies
+## Dependencies
 
 * Jasmine
 
 
-# Authors
+## Authors
 
 Jody Curry
 
