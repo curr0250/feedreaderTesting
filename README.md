@@ -5,6 +5,7 @@ Provided with the code for a program that populates a feed reader, testing was i
 # Getting Started
 
 Clone the github respository and install. 
+$ git clone https://github.com/curr0250/feedreaderTesting
 
 
 # Usage
