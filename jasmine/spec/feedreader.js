@@ -121,7 +121,7 @@ $(function() {
         //define variables, run loadFeed function
          let oldFeed, newFeed;
 
-         //get value in first run of loadFeed
+         //get value in first run of loadFeed function
          beforeEach(function(done) {
              loadFeed(0, function() {
                  oldFeed = document.querySelector('.feed').innerHTML;
