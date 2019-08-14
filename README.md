@@ -10,7 +10,9 @@ $ git clone https://github.com/curr0250/feedreaderTesting
 
 ## Usage
 
+Run the index.html file to load the program.
 Tests will run automatically when program is loaded.
+Results of the tests can be viewed below the site content.
 
 
 ## Dependencies
